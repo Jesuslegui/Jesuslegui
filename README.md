@@ -1,10 +1,8 @@
 <div align="center">
-
-<img width="120" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
-
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hello+👋;I'm+Jesuslegui;Backend+Developer+.NET" />
 <br>
-
-
+<img alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <br><br>
 
 <img src="https://img.shields.io/github/followers/Jesuslegui?label=Followers&style=for-the-badge"/>
@@ -16,11 +14,13 @@
 
 ---
 
-<div align="center">
-
 ## 🚀 About Me
 
-</div>
+<div align="center">
+
+<table>
+<tr>
+<td width="60%">
 
 🚀 Systems Engineering student focused on backend development with **ASP.NET Core**.
 🔐 Experienced in building secure APIs using **JWT, Entity Framework, and SQL Server**.
@@ -29,6 +29,17 @@
 
 💡 *“I don’t just write code, I build solutions.”*
 
+</td>
+
+<td width="40%">
+
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -52,7 +63,7 @@
 
 ## 💻 Operating Systems
 
-<img src="https://skillicons.dev/icons?i=windows,arch,linux,ubuntu,mint"/>
+<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu"/>
 
 </div>
 
@@ -96,6 +107,7 @@
 
 <div align="center">
 
-✨ Thanks for visiting my profile ✨
+✨ Thanks for visiting my profile — Have a great day 👋
 
 </div>
+
