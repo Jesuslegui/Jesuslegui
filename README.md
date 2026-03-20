@@ -4,9 +4,6 @@
 
 <br>
 
-<a href="https://github.com/Jesuslegui">
-  <img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
-</a>
 
 <br><br>
 
