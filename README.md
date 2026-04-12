@@ -107,7 +107,7 @@
 
 <div align="center">
 
-✨ Thanks for visiting my profile — Have a great day 👋
+✨ Thanks for visiting my profile — Have a great day love 👋
 
 </div>
 
